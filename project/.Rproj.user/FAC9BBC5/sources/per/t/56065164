@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558260075983.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3866344997",
+    "id" : "56065164",
+    "lastKnownWriteTime" : 1558262893,
+    "last_content_update" : 1558262893249,
+    "path" : "~/Projects/WebMining/project/webApp/ui.R",
+    "project_path" : "webApp/ui.R",
+    "properties" : {
+        "cursorPosition" : "4,45",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

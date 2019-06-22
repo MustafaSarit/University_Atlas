@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558259405066.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F00A2912",
+    "lastKnownWriteTime" : 1558259380,
+    "last_content_update" : 1558259405066,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8F0C06EF",
+        "caption" : "allDepartments",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=allDepartments&cache_key=8F0C06EF",
+        "displayedObservations" : "11958",
+        "environment" : "",
+        "expression" : "allDepartments",
+        "object" : "allDepartments",
+        "preview" : "0",
+        "totalObservations" : "11958",
+        "variables" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
